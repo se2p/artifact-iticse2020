@@ -1,0 +1,26 @@
+Pattern,Failure,No Failure,Not Executed,False Positive
+Ambiguous CB Sig.,4,3,3,0
+Ambiguous Parameter Name,3,1,6,0
+Call Without Definition,4,3,3,0
+Comparing Literals,1,0,9,0
+Custom Block With Forever,2,5,2,1
+Custom Block With Termination,0,1,0,9
+Endless Recursion,2,3,4,1
+Expression As Touching or Colour,1,0,0,9
+Forever Inside Loop,5,5,0,0
+Message Never Received,3,5,2,0
+Message Never Sent,4,4,2,0
+Missing Backdrop Switch,7,1,2,0
+Missing Clone Call,4,4,2,0
+Missing Clone Initialization,1,5,0,4
+Missing Erase All,3,2,0,5
+Missing Loop,3,5,1,1
+Missing Pen Down,0,10,0,0
+Missing Pen Up,1,7,2,0
+Missing Termination,1,8,1,0
+No Working Scripts,2,5,3,0
+Orphaned Parameter,5,4,1,0
+Parameter Out Of Scope,3,0,7,0
+Position Equals Check,0,10,0,0
+Recursive Cloning,1,5,2,2
+Stuttering Movement,10,0,0,0
